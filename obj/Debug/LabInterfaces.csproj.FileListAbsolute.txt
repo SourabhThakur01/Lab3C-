@@ -1,0 +1,8 @@
+C:\SAIT\Semester2\OO2\lab3\LabInterfaces\LabInterfaces\bin\Debug\LabInterfaces.exe.config
+C:\SAIT\Semester2\OO2\lab3\LabInterfaces\LabInterfaces\bin\Debug\LabInterfaces.exe
+C:\SAIT\Semester2\OO2\lab3\LabInterfaces\LabInterfaces\bin\Debug\LabInterfaces.pdb
+C:\SAIT\Semester2\OO2\lab3\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.csproj.AssemblyReference.cache
+C:\SAIT\Semester2\OO2\lab3\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.csproj.SuggestedBindingRedirects.cache
+C:\SAIT\Semester2\OO2\lab3\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.csproj.CoreCompileInputs.cache
+C:\SAIT\Semester2\OO2\lab3\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.exe
+C:\SAIT\Semester2\OO2\lab3\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.pdb
